@@ -1,0 +1,27 @@
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    /* padding: 20px; */
+    border: 5px solid black;
+    /* box-shadow: -4px 10px 20px rgba(112, 231, 79, 0.6); */
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.img{
+    background-color: aqua;
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+}
+
+/* .ava{
+    object-fit: cover;
+} */
+
+/* body{
+    background-image: url("https://media.baosonla.org.vn/public/hieupt/2025-01-08/9.jpg");
+    background-repeat: no-repeat;
+} */
